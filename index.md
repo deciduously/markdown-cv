@@ -8,7 +8,7 @@ Software Developer
 <div id="webaddress">
 <a href="ben@deciduously.com">ben@deciduously.com</a>
 | <a href="http://deciduously.com">Personal homepage</a>
-  <a href="https://dev.to/deciduously">DEV.to profile</a>
+| <a href="https://dev.to/deciduously">DEV.to profile</a>
 </div>
 
 
