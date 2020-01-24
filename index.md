@@ -52,6 +52,12 @@ Designed and implemented a full-stack web app backend to facilitate a previously
 
 ## Occupation
 
+`Jan 2020 - preset`
+__Programming Intern I__, MousePaw Media - Couer d'Alene, ID
+
+- Collaborate on several interconnected open-source C++17 codebases using Phabricator.
+- Designing and implementing an embedded scripting language from scratch.
+
 `Apr 2018 - present`
 __Accounts Receivable/Billing__, JCC Greater Boston - Newton, MA
 
@@ -84,5 +90,3 @@ __Operations Manager__, ZIRX - San Francisco, CA | Seattle, WA | Washington, DC
 <!-- ### Footer
 
 Last updated: January 2020 -->
-
-
